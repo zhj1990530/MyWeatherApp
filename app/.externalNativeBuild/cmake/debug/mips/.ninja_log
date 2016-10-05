@@ -1,0 +1,17 @@
+# ninja log v5
+0	91	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	81a01f0a701581bf
+92	148	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	ef5900ba8b59702d
+1	101	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	81a01f0a701581bf
+101	156	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	ef5900ba8b59702d
+1	91	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	81a01f0a701581bf
+91	143	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	ef5900ba8b59702d
+0	76	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	81a01f0a701581bf
+76	121	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	ef5900ba8b59702d
+1	74	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	81a01f0a701581bf
+74	119	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	ef5900ba8b59702d
+0	72	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	81a01f0a701581bf
+72	111	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	ef5900ba8b59702d
+0	67	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	81a01f0a701581bf
+67	107	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	ef5900ba8b59702d
+6	250	0	CMakeFiles/hello-jni.dir/hello-jni.c.o	64cde388f5168f8d
+250	294	0	/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/debug/obj/mips/libhello-jni.so	710884c21262b6cc

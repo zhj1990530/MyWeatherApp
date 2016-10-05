@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/huajunzhang/Downloads/android-ndk-master/hello-jni/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/huajunzhang/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/release/mips --target clean"
+	],
+	"libraries" : 
+	{
+		"hello-jni-Release-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "hello-jni",
+			"buildCommand" : "/Users/huajunzhang/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/release/mips --target hello-jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mipsel-none-linux-android -gcc-toolchain /Users/huajunzhang/Library/Android/sdk/ndk-bundle/toolchains/mipsel-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/huajunzhang/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-mips -Dhello_jni_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/huajunzhang/Downloads/android-ndk-master/hello-jni/app/src/main/cpp/hello-jni.c",
+					"workingDirectory" : "/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/release/mips"
+				}
+			],
+			"output" : "/Users/huajunzhang/Downloads/MyWeatherApp/app/.externalNativeBuild/cmake/release/obj/mips/libhello-jni.so",
+			"toolchain" : "5840578152178473149"
+		}
+	},
+	"toolchains" : 
+	{
+		"5840578152178473149" : 
+		{
+			"cCompilerExecutable" : "/Users/huajunzhang/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/huajunzhang/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
